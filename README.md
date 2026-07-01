@@ -38,7 +38,7 @@ Each round drops you into a randomly chosen arena:
 
 **City Circuit** — A tight 90° street course with solid buildings, sidewalks you can cut across, and no margin for error in the corners. Three laps, same placement multiplier as the oval.
 
-All arenas can be day or night, and the track surface switches between grass and dirt at random.
+All arenas can be day or night, and the track surface switches between asphalt and dirt at random.
 
 ---
 
