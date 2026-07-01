@@ -10,7 +10,7 @@ MIT License — fork it, mod it, ship your own version.
 
 ## How to Play
 
-Open `bent-metal-derby.html` in any modern browser. No install, no build step.
+Open `index.html` in any modern browser or visit https://bent-metal-derby.github.io/ . No install, no build step.
 
 ### Controls
 
